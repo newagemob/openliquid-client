@@ -2,6 +2,7 @@ import Link from 'next/link'
 import matter from 'gray-matter'
 import fs from "fs"
 import path from "path"
+import Head from 'next/head'
 
 const Docs = (props: {
   posts: [{
@@ -11,6 +12,12 @@ const Docs = (props: {
 }) => {
   return (
     <>
+      <Head key='docs'>
+        <title>OpenLiquid Documentation</title>
+        <meta name='description' content='OpenLiquid Documentation' />
+        <meta name='keywords' content='openliquid,orbit,roadmap,documentation,docs,finance,algorithms,quant,quantitative,finance,python,typescript,react,reactjs,react.js,react.ts,react.tsx,finance documentation,finance docs,finance api,open source finance' />
+      </Head>
+
       <header className='flex flex-col justify-center items-center w-full h-full p-4 my-6 md:mt-16'>
         <div className='flex flex-col justify-center items-center max-w-2xl mx-auto'>
           <h1 className='text-4xl font-bold text-zinc-900'>OpenLiquid Documentation</h1>

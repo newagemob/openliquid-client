@@ -3,6 +3,8 @@ title: OpenLiquid Strategy Overview
 description: How OpenLiquid utilizes machine learning and statistical modeling to create trading strategies.
 ---
 
+OpenLiquid's **ORBIT** is an open-source algorithmic trading platform that allows users to create, test, and execute automated trading strategies using real-time market data and advanced analytics. It is a powerful tool for traders, investors, and developers to create, optimize, and backtest trading strategies. ORBIT provides users with a wide range of features, including easy-to-use development tools, powerful analytics and data visualization capabilities, and the ability to execute trades in real-time. Additionally, ORBIT supports a variety of data sources and languages, allowing users to quickly and easily develop custom trading algorithms. We run a server that analyzes, backtests, and executes trades based on popular algorithms such as Moving Average Crossover, Mean Reversion, Momentum, Arbitrage, and Market Making. Alternatively, you can run ORBIT your own server by downloading the repository and following the guide on GitHub.
+
 ## Steps to take for every trade:
 
 * ***Stock market data analysis***: You will need to use libraries such as Pandas and NumPy to import and analyze stock market data. Pandas is a library used for data manipulation and analysis, while NumPy is a library used for mathematical and statistical operations.
