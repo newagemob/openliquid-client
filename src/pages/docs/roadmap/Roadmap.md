@@ -5,30 +5,34 @@ description: OpenLiquid Roadmap
 
 # OpenLiquid Roadmap
 
-***Where we're at, where we're going, and where we've been.***
+***Where we've been, where we are, and where we're going.***
+
+ORBIT is the primary agent for the OpenLiquid platform - an optimized risk based intelligent trader. While we plan to create an entire ecosystem of open source financial agents, ORBIT is the first and most important agent. With a focus on profitability and risk management, ORBIT can perform long term analysis on traditional stocks and short term analysis and execution on foreign exchange and crypto markets.
 
 # 🧠 Current Status
 
-### OpenLiquid is currently in the **Alpha** phase of development.
+### ORBIT is currently in the **Alpha** phase of development.
 
-**Alpha** is the first phase of development. During this phase, we are working on the initial ORBIT release. This release will be the first version of the OpenLiquid platform that is ready for public consumption. It will be a minimal viable product (MVP) that will allow users to create and deploy their own *"ORBIT Nodes"*. For now, the nodes are just individual servers running the ORBIT pipeline, but in the future, we will be adding support for decentralized nodes.
+ORBIT is currently in **Alpha**. This release will be the first version of the OpenLiquid platform that is ready for public consumption. It will be a minimal viable product (MVP) that will allow users to create and deploy their own financial agents inside of their OpenLiquid account, or by deploying their own ***ORBIT Nodes***.
 
-## Current Release (v0.2.0)
+The ***[ORBIT Node](https://github.com/newagemob/ORBIT)*** is the decentralized component of the OpenLiquid platform. It is a lightweight server/client that is installed and runs on a user's machine. The ***ORBIT Node*** will allow users to run their own financial agents on their own hardware, without having to trust a third party.
 
-key | value
---- | ---
-Release Date  | 2023-02-24
-Release Notes | [v0.2.0 Release Notes]()
-Release Status | [v0.2.0 Release Status]()
-
-## Current Milestone (v0.2.0)
+## Current Release (v0.2.1)
 
 key | value
 --- | ---
-Milestone Date  | 2023-02-24
-Milestone Notes | [v0.2.0 Milestone Notes]()
-Milestone Status | [v0.2.0 Milestone Status]()
-Milestone Issues | [v0.2.0 Milestone Issues]()
+Release Date  | 2023-04-30
+Release Notes | [v0.2.1 Release Notes]()
+Release Status | [v0.2.1 Release Status]()
+
+## Current Milestone (v0.2.1)
+
+key | value
+--- | ---
+Milestone Date  | 2023-04-30
+Milestone Notes | [v0.2.1 Milestone Notes]()
+Milestone Status | [v0.2.1 Milestone Status]()
+Milestone Issues | [v0.2.1 Milestone Issues]()
 
 
 # 🔮 Future Plans
@@ -46,6 +50,14 @@ Milestone Issues | [v0.2.0 Milestone Issues]()
 
 
 # 🏃‍♂️ Past Releases
+
+## v0.2.0
+
+key | value
+--- | ---
+Release Date  | 2023-02-24
+Release Notes | [v0.2.0 Release Notes]()
+Release Status | [v0.2.0 Release Status]()
 
 ## v0.1.0
 

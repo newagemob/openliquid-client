@@ -3,11 +3,11 @@ title: ORBIT Overview
 description: How OpenLiquid utilizes machine learning and statistical modeling to create trading strategies.
 ---
 
-**ORBIT** (Optimized Risk Base Intelligence Trading) is the first  open-source trading agent from [OpenLiquid](). ORBIT provides an algorithmic trading pipeline that allows users to create, test, and execute automated trading strategies using real-time market data and advanced analytics. It's a powerful tool for traders, investors, and developers to create, optimize, and backtest trading strategies. ORBIT provides users with a wide range of features, including easy-to-use development tools, powerful analytics and data visualization capabilities, and the ability to execute trades in real-time.
+**ORBIT** (Optimized Risk Base Intelligence Trading) is the first  open-source trading agent from [OpenLiquid](/). ORBIT provides an algorithmic trading pipeline that allows users to create, test, and execute automated trading strategies using real-time market data and advanced analytics. It's a powerful tool for traders, investors, and developers to create, optimize, and backtest trading strategies. ORBIT provides users with a wide range of features, including easy-to-use development tools, powerful analytics and data visualization capabilities, and the ability to execute trades in real-time.
 
-We run a [public ORBIT server]() that analyzes, backtests, and executes trades based on popular algorithms such as Moving Average Crossover, Mean Reversion, Momentum, Arbitrage, and Market Making similar to how a hedge fund would - except we show you how we do it.
+We run a [public ORBIT server](/dashboard) that analyzes, backtests, and executes trades based on popular algorithms such as Moving Average Crossover, Mean Reversion, Momentum, Arbitrage, and Market Making similar to how a hedge fund would - except we show you how we do it.
 
-Alternatively, you can run ORBIT your own server by downloading the repository and following the guide on GitHub.
+Alternatively, you can run ORBIT your own server by downloading the repository and following the guide on [GitHub](https://github.com/newagemob/ORBIT).
 
 ## Steps to take for every trade:
 
@@ -111,5 +111,6 @@ It's important to note that algorithmic trading involves financial risks, and pa
   - [Backtrader Library](https://www.backtrader.com/docu/quickstart/quickstart/#basic-setup)
 
 📰 Media Sources
-  - [Backtesting Trading Strategies](https://www.investopedia.com/articles/trading/11/backtesting.asp)
+  - [Top Stocks](https://www.investopedia.com/top-stocks-4581225)
+  - [Earnings Reports](https://www.investopedia.com/earnings-reports-5218419)
   - [Whale Wisdom](https://whalewisdom.com/filing/latest_filings)
